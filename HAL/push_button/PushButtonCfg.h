@@ -1,0 +1,13 @@
+#ifndef PUSHBUTTONCFG_H_
+#define PUSHBUTTONCFG_H_
+
+
+#define PUSH_BUTTON0_PIN   PB0
+#define PUSH_BUTTON1_PIN   PD6
+#define PUSH_BUTTON2_PIN   PD2
+
+
+
+#define BUTTON_ARCH ACTIVE_HIGH
+
+#endif
